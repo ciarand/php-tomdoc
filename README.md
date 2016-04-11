@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # php-tomdoc
 
 php-tomdoc is a [TomDoc][] parser for PHP files.
